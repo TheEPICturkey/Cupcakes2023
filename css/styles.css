@@ -1,0 +1,9 @@
+.important {
+  color: red;
+  font-style: italic;
+}
+
+#yes {
+  color: brown;
+  font-style: italic;
+}
